@@ -12,4 +12,4 @@ Dominic Xu dominictxu1@gmail.com
 [Link to the GitHub page](https://lorddominic.github.io/The-NoteTaker)
 
 ## Gif
-![notetaker.GIF](notetaker.gif)
+![Notetaker GIF](notetaker.gif)
