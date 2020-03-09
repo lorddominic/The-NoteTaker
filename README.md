@@ -10,6 +10,7 @@ Dominic Xu dominictxu1@gmail.com
 
 ## Link to deployed App
 [Link to the GitHub page](https://lorddominic.github.io/The-NoteTaker)
+[Heroku Link](https://frozen-woodland-73383.herokuapp.com/)
 
 ## Gif
 ![Notetaker GIF](notetaker.gif)
