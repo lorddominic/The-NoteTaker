@@ -1,9 +1,9 @@
 # The-NoteTaker
 
-![Capture](https://user-images.githubusercontent.com/46208528/75903199-7ab54d80-5dfe-11ea-8dab-ad392d263130.PNG)
+![Capture](https://user-images.githubusercontent.com/46208528/76181556-bcd3eb80-617e-11ea-8543-243918727428.PNG)
 
 ## Description
-Template-Engine is a project that requires us to create a team member and show it on a HTML page. The program will prompt the user different questions by using inquirer. User will choose his/her profession including manager, engineer or intern. Each profession has its own information on the team member. This is a good practice of creating classes and using extends method to do the inheritance.
+This is a note taker app that uses the Express to establish api routes and http requests. This application has a back end and a front end that is required to function properly. The server side listens for a request from the client and then responds accordingly whether a note is to be taken, saved or deleted. Express is hard on this project. This project is a full-stack work including front-end and back-end. I think I will use Express more often on combining front-end and back-end technologies.
 
 ## Contact:
 Dominic Xu dominictxu1@gmail.com
@@ -12,4 +12,4 @@ Dominic Xu dominictxu1@gmail.com
 [Link to the GitHub page](https://lorddominic.github.io/The-NoteTaker)
 
 ## Gif
-![TeamMembers GIF](TeamMembers.gif)
+![notetaker.GIF](notetaker.gif)
